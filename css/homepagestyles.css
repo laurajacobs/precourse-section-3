@@ -1,0 +1,50 @@
+.hero{
+  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/6a/75/38/6a7538a9118f40e147ec2b54a3dc775c.jpg");
+  background-size: cover;
+  background-position: center top;
+	padding: 10px 0;
+	margin: 50px;
+}
+
+
+#navbar {
+  left: 100px;
+
+
+}
+#menubg{
+  background-color: #f6edff;
+  height: 30px;
+  text-align: center;
+}
+
+li {
+	display: inline;
+	padding: 5px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	color: ##000000;
+	border-radius: 5px 5px;
+	background-color: #fffff;
+}
+
+h1{
+  font-family: 'Open Sans Condensed', sans-serif;
+text-align: center;
+}
+#headphones{
+  background-color: white;
+  float: none;
+  margin-left: auto;
+    margin-right: auto;
+
+}
+
+.test{
+  text-align: center;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+a{
+  text-decoration:none;
+  color: black;
+}
